@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{6A822037-0C33-48AB-896F-857A0D0A9E11}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FC5F7D28-6BD7-4995-A53A-55A09FDF49E7}|..\\Class2th\\Class2th.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class2th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A8A7BE6-B91E-4E02-AA10-76004BDA7483}|..\\Class1th (GetAsyncKeyState)\\Class1th (GetAsyncKeyState).vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class1th (GetAsyncKeyState)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -17,7 +20,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,6 +50,19 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class2th\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class2th\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class2th\\Source.c",
+              "RelativeToolTip": "..\\Class2th\\Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-13T10:55:30.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class1th (GetAsyncKeyState)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class1th (GetAsyncKeyState)\\Source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class1th (GetAsyncKeyState)\\Source.c",
@@ -64,7 +80,7 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAQAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwDkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-10T11:06:30.499Z",
               "EditorCaption": ""

@@ -1,28 +1,63 @@
 #include <stdio.h>
-#include <windows.h>
+#include <conio.h>
 
-void Position(int x, int y)
+#define WIDTH 11
+#define HEIGHT 11
+
+#define UP 72
+#define LEFT 75
+#define RIGHT 77
+#define DOWN 80
+
+typedef struct Character
 {
-	// X와 Y축을 설정하는 구조체입니다.
-	COORD position = { x, y };
+	int x;
+	int y;
+	const char* shape;
+}Character;
 
-	// 콘솔 커서의 좌표를 설정하는 함수입니다.
-	SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), position);
+char maze[WIDTH][HEIGHT] = {
+	{ '1', '1', '1', '1', '1', '0', '0', '0', '0', '1', '1' },
+	{ '1', '0', '0', '0', '0', '0', '1', '1', '0', '0', '1' },
+	{ '1', '1', '0', '1', '0', '0', '1', '1', '1', '0', '1' },
+	{ '1', '1', '0', '1', '1', '0', '0', '1', '1', '0', '1' },
+	{ '1', '1', '0', '0', '1', '1', '0', '0', '1', '0', '1' },
+	{ '1', '1', '1', '0', '1', '1', '1', '0', '1', '0', '1' },
+	{ '1', '1', '1', '0', '0', '0', '0', '0', '1', '0', '1' },
+	{ '1', '1', '1', '0', '0', '1', '0', '1', '1', '0', '1' },
+	{ '1', '1', '1', '1', '1', '1', '0', '1', '1', '0', '1' },
+	{ '0', '0', '0', '0', '0', '0', '0', '0', '1', '0', '1' },
+	{ '1', '1', '1', '1', '1', '1', '1', '1', '1', '2', '1' },
+};
+
+void Render()
+{
+	for (int i = 0; i < HEIGHT; i++)
+	{
+		for (int j = 0; j < WIDTH; j++)
+		{
+			if (maze[i][j] == '1')
+			{
+				printf("■");
+			}
+			else if (maze[i][j] == '0')
+			{
+				printf("  ");
+			}
+			else
+			{
+				printf("⊙");
+			}
+		}
+		printf("\n");
+	}
 }
 
 int main()
 {
-	while (1)
-	{
-		Position(10, 10);
-		printf("☆");
+	Character character = { 1, 1, "★" };
 
-		Position(5, 5);
-		printf("★");
-
-		system("cls");
-
-	}
+	Render();
 
 	return 0;
 }
