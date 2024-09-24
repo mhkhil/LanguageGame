@@ -1,0 +1,32 @@
+  W  W  w, ,W  W  W, ,w  W  W  W, ,w  W  W  w, ,,     W  w, ,W  W  W  ,w  W  W  W, ,w  W  W  W, ,W  
+W, wW  j  W  Ww ,W  W  j  Ww ,W  W  j  WW  j  W  8Z  w  j  W  W, wW  j  j  Ww ,W  W  j  Ww ,W  W  W,
+  W  W  ww ,W  W  W, ww  W  W  W, ww  W  W  w,  ZZZZ  w  ww ,W  W  W  ww  W  W  W, ww  W  W  W, wW  
+W, ww  W  W  ww ,W  W  W  ww ,W  W  W  ww  W   ZEBB8Zw  W  W  W, ww  W  W  ww ,W  W  W  ww ,W  W  W,
+  W  W  w, ,W  W  W, ,w  W  W  W, ,w  W  W    ZEBBBB8Z   w, ,W  W  W  ,w  W  W  W, ,w  W  W  W, ,W  
+w, ,w  W  W  w, ,W  W  W  w, ,W  W  W  ww  w yZzBBBBB9Z    W  W, ,w  W  W  w, ,W  W  W  w, ,W  W  W,
+  w  w  w, ,w  w  w, ,w        w, ,w  w  w   ZzBBBBBBBZD ,, ,w  w  w         ,  w, ,w  w  w  w, ,w  
+,, ,,  w  w  ,, ,w  w   ZZEB        w  ,,   9EBBBBBBBBzZ   w  w, ,      58ZZj ,w  w  w  ,, ,w  w  w,
+  w  w  ,, ,w  w  w, ,, ZE8EZZZEw     w  w  ZzBBBBBBBBBZj , ,w      BZZZZ98Z    w, ,,  w  w  w, ,w  
+,, ,,  ,  ,  ,, ,,  ,   5ZBBBBz9ZZ9    ,,  wZBBBBBBBBBB9E  ,     BZZE8BBBBzZ  ,,  ,  ,  ,, ,,  ,  ,,
+  ,  ,  ,,  ,  ,  ,  ,,  ZzBBBBBBz9ZZw   , DZBBBBBBBBBBzZ ,    8ZZ8BBBBBBBEB ,  ,  ,,  ,  ,  ,  ,,  
+,      ,                 zZBBBBBBBBB8ZZ,   BEBBBBBBBBBBBZ    zZEzBBBBBBBB8Z          ,             ,
+     ,                    ZEzzzzzzzzz8EZz  zZzzzzzzzzzz8Z   ZZ9zzzzzzzzz8ZW            ,            
+  ,  ,         ,           ZZZZZZZZZZZZZZZ zZZZZZZZZZZZZZ 9ZZZZZZZZZZZZZZZ   ,         ,  ,         
+,  ,,  ,  ,  ,,  ,  ,  ,                                                   ,,  ,  ,  ,  ,,  ,  ,  , 
+  ,  ,  ,, ,,  ,  ,, ,,  ,  ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ  ,  ,  ,, ,,  ,  ,  ,, ,,  
+,, ,,  w  w  ,, ,w  w  w  ,                                                ,, ,w  w  w  ,, ,w  w  w,
+  w  w  ,, ,w  w  w, ,,  w  ,  yE8DDzBDBBDBzDDzBDzBDBBDBzDDzBDzBDBz88  ,  w  w  w, ,,  w  w  w, ,w  
+w, ,w  w  w  w, ,w  w  w  w, ,, WZ8z8B5zz5Bz5B8B5zB5z8DBz5DzD5zzBEZ5    w  w, ,w  w  w  w, ,w  w  w,
+  w  w  w, ,w  w  w, ,w  w  w  ,                               ,      ,w  w  w  w, ,w  w  w  w, ,w  
+w, ,w  W  W  w, ,W  W  W  w, ,W  W  ,zZZZZZZZZBwZZZZZ ZZZZZZZZZw ,w  W  W  w, ,W  W  W  w, ,W  W  W,
+  W  W  ww ,W  W  W, ww  W  W  W, ww     BZZZZ8  ZZD  ZZZZz     W  W  ww  W  W  W, ww  W  W  W, wW  
+W, ww  W  W  ww ,W  W  W  ww ,W  W  W  ,      w   ,           W, ww  W  W  ww ,W  W  W  ww ,W  W  W,
+  W  j  Ww ,j  W  W, wW  j  W  W, wW  j         W  W      , ,W  W  j  wW  w  j  W, wW  j  W  W, wj  
+W, wW  j  W  Ww ,j  W  j  ,   ,  w  w    EZ8,ZZ  W     ZZ  W         W   jBZ  ,j  W  j  Ww ,j  W  j,
+  j  j  Ww ,j  j  j, wW     W   w     W  jZ, w  ,  w   EZ    ,     ,   j     j  j, wW  j  j  j, wj  
+W, wW  j  W  Ww ,j  W    ZZZZZZZZ, 8ZZZZZZZj ZZ  ZZZZZZEZ  ZZZZZZZZ, ZZ8EZZz  ,j  W  j  Ww ,j  W  j,
+  W  W  ww ,W  W  W, ww ZZ,    ZZ 8ZD    ZZ, Z9 ZZ    wZZ ZZy    ZZ,yZ9      W  W, ww  W  W  W, wW  
+W, ww  W  W  ww ,W  W   ZZ     EZ ZZ     jZW Z9 ZZ     ZZ ZZ     BZ  ,8ZZZZZ  ,W  W  W  ww ,W  W  W,
+  W  W  w, ,W  W  W, ,w EZ8   5ZZ WZZ   wZZ, ZE ZZ8   8ZZ BZZw  BZZ,y9,   ZZ w  W, ,w  W  W  W, ,W  
+w, ,w  W  W  w, ,W  W    jZZZZZZZw  ZZZZZZZ8 ZZ  5ZZZZZZZ  WZZZZZZZj ZZZZZZy  ,W  W  W  w, ,W  W  W,
+  w  w  ,, ,w  w  ,, ,,                                                      w  ,, ,,  w  w  ,, ,w  
