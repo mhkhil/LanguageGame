@@ -1,9 +1,22 @@
 ﻿  Source.c
-C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\Source.c(88,17): warning C4552: '-': 식의 결과가 사용되지 않습니다.
-C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\Source.c(97,18): warning C4552: '+': 식의 결과가 사용되지 않습니다.
-C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\Source.c(106,18): warning C4552: '-': 식의 결과가 사용되지 않습니다.
-C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\Source.c(128,17): warning C4552: '+': 식의 결과가 사용되지 않습니다.
-C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\Source.c(136,18): warning C4552: '-': 식의 결과가 사용되지 않습니다.
-C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\Source.c(144,18): warning C4552: '-': 식의 결과가 사용되지 않습니다.
-C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\Source.c(152,18): warning C4552: '-': 식의 결과가 사용되지 않습니다.
+C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\Source.c(158,10): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\Source.c(158,10):
+  자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\Source.c(158,10):
+  누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\Source.c(158,10):
+  이 인수는 버퍼 크기로 사용됩니다.
+  
+C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\Source.c(161,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'const char **'입니다.
+  C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\Source.c(161,10):
+  이 인수는 변환 지정자에서 사용됩니다.
+  
+C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\Source.c(161,10): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\Source.c(161,10):
+  자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\Source.c(161,10):
+  누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+  C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\Source.c(161,10):
+  이 인수는 버퍼 크기로 사용됩니다.
+  
   Program.vcxproj -> C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\x64\Debug\Program.exe
