@@ -34,6 +34,7 @@ void Load(const char* fileName)
 void Clothes()
 {
 	Load("clothes1.txt");
+
 	printf("\n");
 	printf("  --------------------------------------------------------------------\n");
 	printf(" | 오늘은 친구가 주선해준 소개팅에 가는 날이다. 무엇을 입고 가야할까? |\n");

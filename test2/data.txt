@@ -1,0 +1,4 @@
+Character Information
+Health : 100
+Attack : 100
+Defense : 100
