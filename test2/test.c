@@ -52,7 +52,7 @@ void Load(const char* fileName)
 void Clothes()
 {
     textcolor(darkBLUE);
-    Load("clothes1.txt");
+    Load("옷.txt");
     printf("\n");
 
     textcolor(WHITE);
@@ -78,6 +78,7 @@ void Clothes()
         printf(" |                                                                    |\n");
         printf(" | 호감도 + 1                                                         |\n");
         printf("  --------------------------------------------------------------------\n");
+        getchar();
         break;
     case 2:
         textcolor(SkyBlue);
@@ -89,10 +90,11 @@ void Clothes()
         printf(" |                                                                    |\n");
         printf(" | 호감도 - 3                                                         |\n");
         printf("  --------------------------------------------------------------------\n");
+        getchar();
         break;
     case 3:
         textcolor(YELLOW);
-        Load("캐주얼.txt");
+        Load("캐주얼2.txt");
         likeability += 3;
         textcolor(WHITE);
         printf("  ------------------------------------------------------------------------\n");
@@ -100,6 +102,7 @@ void Clothes()
         printf(" |                                                                        |\n");
         printf(" | 호감도 + 3                                                             |\n");
         printf("  ------------------------------------------------------------------------\n");
+        getchar();
         break;
     default:
         textcolor(DarkRed);
@@ -111,6 +114,7 @@ void Clothes()
         printf(" |                                                                    |\n");
         printf(" | 호감도 - 10                                                        |\n");
         printf("  --------------------------------------------------------------------\n");
+        getchar();
         break;
     }
 }
@@ -118,8 +122,9 @@ void Clothes()
 void Vehicle()
 {
     Load("고민.txt");
+    textcolor(WHITE);
     printf("  --------------------------------------------------------------------\n");
-    printf(" | 준비하다 보니 시간이 지체됐다! 무엇을 타고 가야 할까?              |\n");
+    printf(" | 준비하다 보니 시간이 지체됐다! 어떻게 가야 할까?                   |\n");
     printf(" |                                                                    |\n");
     printf(" | 1. 택시 2. 지하철 3. 도보                                          |\n");
     printf("  --------------------------------------------------------------------\n");
@@ -133,38 +138,47 @@ void Vehicle()
     case 1:
         likeability += 3;
         Load("택시.txt");
+        textcolor(WHITE);
         printf("  --------------------------------------------------------------------\n");
         printf(" | 택시! 택시! 다행히 약속시간보다 10분 일찍 갈 수 있었다..!          |\n");
         printf(" |                                                                    |\n");
         printf(" | 호감도 + 3                                                         |\n");
         printf("  --------------------------------------------------------------------\n");
+        getchar();
         break;
     case 2:
         likeability -= 1;
         Load("지하철.txt");
+        textcolor(WHITE);
         printf("  --------------------------------------------------------------------\n");
         printf(" | 눈 앞에서 지하철을 놓쳐서 5분 늦어버렸다...                        |\n");
         printf(" |                                                                    |\n");
         printf(" | 호감도 - 1                                                         |\n");
         printf("  --------------------------------------------------------------------\n");
+        getchar();
         break;
     case 3:
         likeability -= 3;
         Load("보도.txt");
+        textcolor(WHITE);
         printf("  --------------------------------------------------------------------\n");
         printf(" | 내 발걸음은 너무 느렸다.. 10분이나 늦어버렸어..                    |\n");
         printf(" |                                                                    |\n");
         printf(" | 호감도 - 3                                                         |\n");
         printf("  --------------------------------------------------------------------\n");
+        getchar();
         break;
     default:
+        textcolor(DarkGreen);
         likeability -= 10;
         Load("거북이.txt");
+        textcolor(WHITE);
         printf("  --------------------------------------------------------------------\n");
         printf(" | 거북이를 타고 갔다! 고마워 거북아! 하지만 30분을 늦어버렸어..      |\n");
         printf(" |                                                                    |\n");
         printf(" | 호감도 - 10                                                        |\n");
         printf("  --------------------------------------------------------------------\n");
+        getchar();
         break;
     }
 }
@@ -186,52 +200,52 @@ int main()
     while (getchar() != '\n'); // 입력 버퍼 비우기
 
     // 대화 내용 초기화
-    textcolor(BLUE);
     sprintf_s(dialog[0], sizeof(dialog[0]), "%s님이신가요?", heroine);
-    textcolor(RED);
     sprintf_s(dialog[1], sizeof(dialog[1]), "어! 네네! %s님이시죠?", heroine);
-    textcolor(BLUE);
     sprintf_s(dialog[2], sizeof(dialog[2]), "네! 아 먼저 자리에 앉아도 될까요?");
-    textcolor(RED);
     sprintf_s(dialog[3], sizeof(dialog[3]), "네네 편하게 앉으세요!");
     sprintf_s(dialog[4], sizeof(dialog[4]), "으악! %s씨 발에 바퀴벌레 있어요!", maincharacter);
 
-    while (i < 5) // 대화 수에 맞게 조정
+    while (i < 1000) // 대화 수에 맞게 조정
     {
         system("mode con: cols=100 lines=50");
-        if (GetAsyncKeyState(VK_SPACE) & 0x0001)
+        if (GetAsyncKeyState(VK_RETURN) & 0x0001)
         {
-            system("cls");
             if (i == 0)
             {
                 textcolor(WHITE);
                 Clothes();
+                system("cls");
             }
             else if (i == 1)
             {
                 textcolor(WHITE);
                 Vehicle();
-                getchar();
                 system("cls");
             }
             else if (i == 2)
             {
-                Load("거북이.txt");
-                printf("  --------------------------------------------------------------------\n");
-                printf(" | 만나기로 한 카페에 들어가보니 한 여성분이 기다리고 계신다. 말을 걸어봐야겠다!              |\n");
-                printf("  --------------------------------------------------------------------\n");
+                Load("카페.txt");
+                printf("  ----------------------------------------------------------------------------------\n");
+                printf(" | 만나기로 한 카페에 들어가보니 한 여성분이 기다리고 계신다. 말을 걸어봐야겠다!    |\n");
+                printf("  ----------------------------------------------------------------------------------\n");
+                getchar();
+                system("cls");
             }
             else if (i % 2 == 1)
             {
-                printf("나 : %s\n", dialog[i]);
+                textcolor(BLUE);
+                printf("나 : %s\n", dialog[i - 3]);
+                getchar();
             }
             else if (i % 2 == 0)
             {
-                printf("소개팅녀 : %s\n", dialog[i]);
+                textcolor(RED);
+                printf("소개팅녀 : %s\n", dialog[i - 3]);
+                getchar();
             }
 
             i++;
-            getchar(); // 다음 출력 전 대기
         }
     }
 

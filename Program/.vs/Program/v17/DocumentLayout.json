@@ -20,9 +20,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A26F7070-0353-401D-9776-9F73033DADBD}|..\\Class3th\\Class3th.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class3th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -60,25 +57,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "stdio.h",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h",
-              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h",
-              "ViewState": "AQIAAD8EAAAAAAAAAAApwEoEAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-27T12:10:08.292Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\test2\\test.c",
               "RelativeDocumentMoniker": "..\\test2\\test.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\test2\\test.c",
               "RelativeToolTip": "..\\test2\\test.c",
-              "ViewState": "AQIAAKsAAAAAAAAAAAAAAGAAAAAZAAAA",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAIwPQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-27T11:47:26.647Z",
               "EditorCaption": ""

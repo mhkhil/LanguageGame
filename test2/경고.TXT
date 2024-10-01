@@ -1,58 +1,47 @@
-  W  W  w, ,W  W  W, ,w  W  W  W, ,w  W  W  w, ,W  W  W  w, ,W  W  W  ,w  W  W  W, ,w  W  W  W, ,W  
-W, ww  W  W  ww ,W  W  W  ww ,W  W  W  ww  W  W  W, ww  W  W  W, ww  W  W  ww ,W  W  W  ww ,W  W  W,
-  W  W  ww ,W  W  W, ww  W  W  W, ww  W  W  ww ,W  W  W  ww ,W  W  W  ww  W  W  W, ww  W  W  W, wW  
-w, ,w  W  W  w, ,W  W  W  w, ,W  W  W  ww  W  W  W, ,w  W  W  W, ,w  W  W  w, ,W  W  W  w, ,W  W  W,
-  w  w  w, ,w  w  w, ,w  w  w  w, ,w  w  w  w, ,w  w  w  w, ,w  w  w  ,w  w  w  w, ,w  w  w  w, ,w  
-,, ,,  w  w  ,, ,w  w  w  ,, ,w  w  w  ,,  w            w  w  w, ,,  w  w  ,, ,w  w  w  ,, ,w  w  w,
-  ,  ,  ,, ,,  ,  ,, ,,  ,  ,  ,, ,,  ,  ,  ,   ZZZZ     ,, ,,  ,  ,  ,,  ,  ,  ,, ,,  ,  ,  ,, ,,  
-,  ,,  ,  ,  ,,  ,  ,  ,  ,,  ,  ,  ,  ,,  ,   ZZZZZZj  ,  ,  ,  ,,  ,  ,  ,,  ,  ,  ,  ,,  ,  ,  , 
-  ,  ,         ,         ,  ,         ,  ,    ZZZZZZZZW         ,  ,      ,  ,         ,  ,         
-  ,  ,         ,         ,  ,         ,  ,   ZZZZZZZZZZW        ,  ,      ,  ,         ,  ,         
-,, ,,  ,  ,  ,, ,,  ,  ,  ,, ,,  ,  ,  ,,   ZZZZZZZZZZZZw  ,  ,, ,,  ,  ,  ,, ,,  ,  ,  ,, ,,  ,  ,,
-  w  w  ,, ,w  w  w, ,,  w  w  w, ,,  w    ZZZZZZZZZZZZZZw  ,w  w  w  ,,  w  w  w, ,,  w  w  w, ,w  
-,, ,,  w  w  ,, ,w  w  w  ,, ,w  w  w     ZZZZZZZ  ZZZZZZZw   w, ,,  w  w  ,, ,w  w  w  ,, ,w  w  w,
-  w  w  w, ,w  w  w, ,w  w  w  w, ,w     ZZZZZZZ,   ZZZZZZZ,    w  w  ,w  w  w  w, ,w  w  w  w, ,w  
-w, ,w  W  W  w, ,W  W  W  w, ,W  W  W   ZZZZZZZ      ZZZZZZZ,  , ,w  W  W  w, ,W  W  W  w, ,W  W  W,
-  W  W  ww ,W  W  W, ww  W  W  W, ww   ZZZZZZZ  ,  w  ZZZZZZZw  W  W  ww  W  W  W, ww  W  W  W, wW  
-W, wW  j  W  Ww ,W  W  j  Ww ,W  W    ZZZZZZZ    W,    ZZZZZZZw  wW  j  j  Ww ,W  W  j  Ww ,W  W  W,
-  W  j  Ww ,j  W  W, wW  j  W  W,    ZZZZZZZ   ,W  W    ZZZZZZZw   j  wW  j  W  W, wW  j  W  W, wj  
-W, wW  j  W  Ww ,W  W  j  Ww ,W  w  ZZZZZZZ,  W  W, wW   ZZZZZZZ     j  j  Ww ,W  W  j  Ww ,W  W  W,
-  W  W  ww ,W  W  W, ww  W  W  W   ZZZZZZZ   w ,W  W  W   ZZZZZZZ  ,  ww  W  W  W, ww  W  W  W, wW  
-w, ,w  W  W  w, ,W  W  W  w, ,W   ZZZZZZZ     W  W, ,w  ,  ZZZZZZZ,  W  W  w, ,W  W  W  w, ,W  W  W,
-  W  W  w, ,W  W  W, ,w  W  W    ZZZZZZZ    w, ,W  W  W     ZZZZZZZw  ,w  W  W  W, ,w  W  W  W, ,W  
-w, ,w  w  w  w, ,w  w  w  w,    ZZZZZZZ    w  w  w, ,w  w    ZZZZZZZ    w  w, ,w  w  w  w, ,w  w  w,
-  w  w  ,, ,w  w  w, ,,  w     ZZZZZZZ   w  ,,        w  ,,   ZZZZZZZ     w  w  w, ,,  w  w  w, ,w  
-,, ,,  ,  ,  ,, ,,  ,  ,  ,   ZZZZZZZ,  ,  ,   ,ZZZZD   ,  ,   ZZZZZZZ     ,, ,,  ,  ,  ,, ,,  ,  ,,
-     ,      ,            ,   ZZZZZZZ,    ,     ZZZZZZ5          ZZZZZZZ,  ,            ,        ,,  
-       ,               ,    ZZZZZZZw       ,  WZZZZZZz  ,        ZZZZZZZ             ,              
-       ,  ,         ,  ,   ZZZZZZZ,        ,   ZZZZZZ,  ,  ,      ZZZZZZZ         ,  ,         ,    
-  ,  ,  ,, ,,  ,  ,, ,,   ZZZZZZZ     ,  ,  ,  ZZZZZZ    ,, ,,     ZZZZZZZ   ,  ,, ,,  ,  ,  ,, ,,  
-,, ,,  w  w  ,, ,w  w    ZZZZZZZ    w  ,,  w   ZZZZZZ   w  w  w,    ZZZZZZZ   ,w  w  w  ,, ,w  w  w,
-  w  w  w, ,w  w  w,    ZZZZZZZW  ,w  w  w  w  ZZZZZZ    w, ,w  w    ZZZZZZZ    w, ,w  w  w  w, ,w  
-w, ,w  w  w  w, ,w  ,  ZZZZZZZW  w  w  ww  w   ZZZZZZ   w  w  w, ,w   ZZZZZZZ     w  w  w, ,w  w  w,
-  W  W  w, ,W  W  W   ZZZZZZZ,  , ,w  W  W  w, ZZZZZZ w  w, ,W  W  W   ZZZZZZZ  ,, ,w  W  W  W, ,W  
-W, ww  W  W  ww ,W   ZZZZZZZ, ,  W  W  ww  W   ZZZZZZ   W  W  W, ww  ,  ZZZZZZZ   W  W  ww ,W  W  W,
-  W  j  Ww ,j  W    ZZZZZZZW   j, wW  j  j  Ww ZZZZZZ j  Ww ,j  W  j     ZZZZZZZ   wW  j  W  j, wj  
-W, wW  j  j  Ww    ZZZZZZZj  ,j  j  j  WW  j   ZZZZZZ   j  j  j, wW  j    ZZZZZZZ    j  Ww ,j  j  j,
-  W  j  Ww ,j  w  ZZZZZZZj  W  j, wW  j  j  Ww zZZZZZ j  Ww ,j  W  j  wW   ZZZZZZZ  ,  j  W  j, wj  
-W, ww  W  W  w   ZZZZZZZw  w ,W  W  W  ww  W   zZZZZ8   W  W  W, ww  W  W   ZZZZZZZ  ,  ww ,W  W  W,
-  W  W  w, ,W   ZZZZZZZW    W  W, ,w  W  W  w,  w88,  W  w, ,W  W  W  ,w  ,  ZZZZZZZ   W  W  W, ,W  
-w, ,w  w  w    ZZZZZZZj   w, ,w  w  w  ww  w  w      w  w  w  w, ,w  w  w     ZZZZZZZ   w, ,w  w  w,
-  w  w  w,    ZZZZZZZy   w  w  w, ,w  w  w  w, ,w  w  w  w, ,w  w  w  ,w  w    ZZZZZZZ    w  w, ,w  
-,, ,,  w     ZZZZZZZj  w  ,, ,w  w  w  ,,  w            w  w  w, ,,  w  w  ,,   ZZZZZZZ    ,w  w  w,
-  ,  ,  ,   ZZZZZZZW  ,  ,  ,  ,, ,,  ,  ,  ,  jZZZZ5    ,, ,,  ,  ,  ,,  ,  ,   ZZZZZZZ     ,, ,,  
-       ,   ZZZZZZZ5    ,         ,  ,      ,  ZZZZZZZZ  ,  ,         ,  ,         ZZZZZZZ      ,    
-          ZZZZZZZ5     ,            ,      ,  ZZZZZZZZ  ,            ,  ,          ZZZZZZZ          
-     ,   ZZZZZZZy  ,     ,            ,  ,  , 5ZZZZZZE             ,      ,         ZZZZZZZ     ,,  
-,, ,,   ZZZZZZZy    ,  ,  ,, ,,  ,  ,  ,,  ,    zZZ8    ,  ,  ,, ,,  ,  ,  ,, ,,     ZZZZZZZ   ,  ,,
-  w    ZZZZZZZy   w, ,,  w  w  w, ,,  w  w  ,,        w  ,, ,w  w  w  ,,  w  w  w,    ZZZZZZZ   ,w  
-w,    ZZZZZZZD  ,w  w  w  w, ,w  w  w  ww  w  w  w, ,w  w  w  w, ,w  w  w  w, ,w  w    ZZZZZZZ    w,
-  ,  ZZZZZZZ                                                                            ZZZZZZZ  ,  
-w,  ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ  w,
-   ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ   
-W, ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ W,
-    ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ    
-W,                                                                                                W,
-  W  W  ww ,W  W  W, ww  W  W  W, ww  W  W  ww ,W  W  W  ww ,W  W  W  ww  W  W  W, ww  W  W  W, wW  
-w, ,w  W  W  w, ,W  W  W  w, ,W  W  W  ww  W  W  W, ,w  W  W  W, ,w  W  W  w, ,W  W  W  w, ,W  W  W,
-  w  w  ,, ,w  w  ,, ,,  w  w  ,, ,,  w  w  ,, ,,  w  w  ,, ,,  w  w  ,,  w  w  ,, ,,  w  w  ,, ,w  
+                                                                                
+                                                                                
+                                                                                
+                                  ZZZZZZZZZZ                                    
+                                ZZZZZZZZZZZZZZ                                  
+                               ZZZZZZZZZZZZZZZZ,                                
+                              ZZZZZZZZZZZZZZZZZZD                               
+                             ZZZZZZZZZZZZZZZZZZZZj                              
+                            ZZZZZZZZZZZZZZZZZZZZZZz                             
+                           ZZZZZZZZZZZZZZZZZZZZZZZZz                            
+                          ZZZZZZZZZZZZZZZZZZZZZZZZZZz                           
+                         ZZZZZZZZZZZZ    DZZZZZZZZZZZZ                          
+                        ZZZZZZZZZZZ        EZZZZZZZZZZ8                         
+                       ZZZZZZZZZZZB         ZZZZZZZZZZZZ                        
+                      ZZZZZZZZZZZZD         ZZZZZZZZZZZZZ                       
+                     ZZZZZZZZZZZZZD         ZZZZZZZZZZZZZZ                      
+                    ZZZZZZZZZZZZZZD         ZZZZZZZZZZZZZZZ                     
+                   ZZZZZZZZZZZZZZZD         ZZZZZZZZZZZZZZZZ                    
+                  8ZZZZZZZZZZZZZZZD         ZZZZZZZZZZZZZZZZZ                   
+                 ZZZZZZZZZZZZZZZZZD         ZZZZZZZZZZZZZZZZZZ                  
+                9ZZZZZZZZZZZZZZZZZD         ZZZZZZZZZZZZZZZZZZZ                 
+               BZZZZZZZZZZZZZZZZZZD         ZZZZZZZZZZZZZZZZZZZZ                
+              8ZZZZZZZZZZZZZZZZZZZD         ZZZZZZZZZZZZZZZZZZZZZ               
+             yZZZZZZZZZZZZZZZZZZZZD         ZZZZZZZZZZZZZZZZZZZZZZ              
+            zZZZZZZZZZZZZZZZZZZZZZD         ZZZZZZZZZZZZZZZZZZZZZZZ             
+           jZZZZZZZZZZZZZZZZZZZZZZB         ZZZZZZZZZZZZZZZZZZZZZZZZ            
+          wZZZZZZZZZZZZZZZZZZZZZZZZ        EZZZZZZZZZZZZZZZZZZZZZZZZZ           
+         5ZZZZZZZZZZZZZZZZZZZZZZZZZZZ    zZZZZZZZZZZZZZZZZZZZZZZZZZZZZ          
+         ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ         
+       ,ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ        
+       ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ       
+      ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ      
+     ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ     
+    ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZy   ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ    
+   ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ        ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ   
+  ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZz         ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZw 
+ ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZy         ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ 
+DZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ        9ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ9
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ    jZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+EZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+WZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZB
+ ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ 
+  ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ  
+    ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ    
+                                                                                
+                                                                                
+                                                                                
