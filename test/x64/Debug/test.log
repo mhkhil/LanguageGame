@@ -1,10 +1,2 @@
 ﻿  Source.c
-C:\Users\Administrator\Desktop\C_study\LanguageGame\test\Source.c(138,13): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
-  C:\Users\Administrator\Desktop\C_study\LanguageGame\test\Source.c(138,13):
-  이 인수는 버퍼 크기로 사용됩니다.
-  
-C:\Users\Administrator\Desktop\C_study\LanguageGame\test\Source.c(141,13): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
-  C:\Users\Administrator\Desktop\C_study\LanguageGame\test\Source.c(141,13):
-  이 인수는 버퍼 크기로 사용됩니다.
-  
   test.vcxproj -> C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\x64\Debug\test.exe

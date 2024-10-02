@@ -31,6 +31,7 @@ enum ColorType {
 int i = 0;
 int clothes;
 int vehicle;
+int onething;
 int likeability = 0;
 char heroine[50]; // 소개팅녀의 이름을 저장할 배열
 char maincharacter[50]; // 사용자 이름을 저장할 배열
@@ -183,6 +184,79 @@ void Vehicle()
     }
 }
 
+void Onethings()
+{
+    textcolor(darkBLUE);
+    Load("소개팅.txt");
+    printf("\n");
+
+    textcolor(WHITE);
+    printf("  ----------------------------------------------------------------\n");
+    printf(" | 인생에서 가장 중요한 것의 질문에 뭐라고 대답해야 할까?         |\n");
+    printf(" |                                                                |\n");
+    printf(" | 1.가족   2.미쿠쨩   3.%s님                                      |\n", heroine);
+    printf("  ----------------------------------------------------------------\n");
+    printf("  ☞ 당신의 선택은? ");
+    scanf_s("%d", &onething);
+    getchar(); // 입력 버퍼 비우기
+    system("cls");
+
+    switch (onething)
+    {
+    case 1:
+        textcolor(RED);
+        printf("소개팅녀 : 어머~ 따수워라~ 저도 가족이 제일 중요한 것 같아요!");
+        getchar();
+        likeability += 3;
+        textcolor(WHITE);
+        printf("  --------------------------------------------------------------------\n");
+        printf(" | 다행히 대답을 잘 한 것 같아!                                       |\n");
+        printf(" |                                                                    |\n");
+        printf(" | 호감도 + 3                                                         |\n");
+        printf("  --------------------------------------------------------------------\n");
+        getchar();
+        break;
+    case 2:
+        textcolor(RED);
+        printf("소개팅녀 : 아.. ㅎㅎ.. 아 밖에 비오는 것 같은데 이제 슬슬 집가봐야하나..");
+        getchar();
+        likeability -= 10;
+        textcolor(WHITE);
+        printf("  --------------------------------------------------------------------\n");
+        printf(" | 미쿠쨩 난 널 배신하지 않았어!                                      |\n");
+        printf(" |                                                                    |\n");
+        printf(" | 호감도 - 10                                                         |\n");
+        printf("  --------------------------------------------------------------------\n");
+        getchar();
+        break;
+    case 3:
+        textcolor(RED);
+        printf("소개팅녀 : 응? ㅎㅎ 감사해요~");
+        getchar();
+        likeability += 1;
+        textcolor(WHITE);
+        printf("  ------------------------------------------------------------------------\n");
+        printf(" | 와 나 방금 엄청 센스있었어 |\n");
+        printf(" |                                                                        |\n");
+        printf(" | 호감도 + 1                                                             |\n");
+        printf("  ------------------------------------------------------------------------\n");
+        getchar();
+        break;
+    default:
+        textcolor(DarkRed);
+        Load("경고.txt");
+        likeability -= 10;
+        textcolor(WHITE);
+        printf("  --------------------------------------------------------------------\n");
+        printf(" | 발가 벗고 나갔다!!                                                 |\n");
+        printf(" |                                                                    |\n");
+        printf(" | 호감도 - 10                                                        |\n");
+        printf("  --------------------------------------------------------------------\n");
+        getchar();
+        break;
+    }
+}
+
 int main()
 {
     char dialog[5][100]; // 대화 저장을 위한 배열 (5개의 대화)
@@ -201,53 +275,121 @@ int main()
 
     // 대화 내용 초기화
     sprintf_s(dialog[0], sizeof(dialog[0]), "%s님이신가요?", heroine);
-    sprintf_s(dialog[1], sizeof(dialog[1]), "어! 네네! %s님이시죠?", heroine);
+    sprintf_s(dialog[1], sizeof(dialog[1]), "어! 네네! %s님이시죠?", maincharacter);
     sprintf_s(dialog[2], sizeof(dialog[2]), "네! 아 먼저 자리에 앉아도 될까요?");
     sprintf_s(dialog[3], sizeof(dialog[3]), "네네 편하게 앉으세요!");
-    sprintf_s(dialog[4], sizeof(dialog[4]), "으악! %s씨 발에 바퀴벌레 있어요!", maincharacter);
+    sprintf_s(dialog[4], sizeof(dialog[4]), "흠... 일단 뭐 좀 시켜볼까요?");
+    sprintf_s(dialog[5], sizeof(dialog[5]), "네! 저는 돌체라떼요!");
+    sprintf_s(dialog[6], sizeof(dialog[6]), "음.. 전 녹차라떼요..!");
+    sprintf_s(dialog[7], sizeof(dialog[7]), ".....");
+    sprintf_s(dialog[8], sizeof(dialog[8]), "..........");
 
-    while (i < 1000) // 대화 수에 맞게 조정
+while (i < 1000) // 대화 수에 맞게 조정
+{
+system("mode con: cols=100 lines=50");
+    if (GetAsyncKeyState(VK_RETURN) & 0x0001)
     {
-        system("mode con: cols=100 lines=50");
-        if (GetAsyncKeyState(VK_RETURN) & 0x0001)
+        if (i == 0)
         {
-            if (i == 0)
-            {
-                textcolor(WHITE);
-                Clothes();
-                system("cls");
-            }
-            else if (i == 1)
-            {
-                textcolor(WHITE);
-                Vehicle();
-                system("cls");
-            }
-            else if (i == 2)
-            {
-                Load("카페.txt");
-                printf("  ----------------------------------------------------------------------------------\n");
-                printf(" | 만나기로 한 카페에 들어가보니 한 여성분이 기다리고 계신다. 말을 걸어봐야겠다!    |\n");
-                printf("  ----------------------------------------------------------------------------------\n");
-                getchar();
-                system("cls");
-            }
-            else if (i % 2 == 1)
-            {
-                textcolor(BLUE);
-                printf("나 : %s\n", dialog[i - 3]);
-                getchar();
-            }
-            else if (i % 2 == 0)
-            {
-                textcolor(RED);
-                printf("소개팅녀 : %s\n", dialog[i - 3]);
-                getchar();
-            }
-
-            i++;
+            textcolor(WHITE);
+            Clothes();
+            system("cls");
         }
+        else if (i == 1)
+        {
+            textcolor(WHITE);
+            Vehicle();
+            system("cls");
+        }
+        else if (i == 2)
+        {
+            Load("카페.txt");
+            printf("  ----------------------------------------------------------------------------------\n");
+            printf(" | 만나기로 한 카페에 들어가보니 한 여성분이 기다리고 계신다. 말을 걸어봐야겠다!    |\n");
+            printf("  ----------------------------------------------------------------------------------\n");
+            getchar();
+            system("cls");
+        }
+        else if (i == 2)
+        {
+            Load("카페.txt");
+            printf("  ----------------------------------------------------------------------------------\n");
+            printf(" | 만나기로 한 카페에 들어가보니 한 여성분이 기다리고 계신다. 말을 걸어봐야겠다!    |\n");
+            printf("  ----------------------------------------------------------------------------------\n");
+            getchar();
+            system("cls");
+        }
+        else if (i == 3)
+        {
+            textcolor(BLUE);
+            printf("나 : % s님이신가요 ? ", heroine);
+            getchar();
+            textcolor(RED);
+            printf("소개팅녀 : 어! 네네! % s님이시죠 ? ", maincharacter);
+            getchar();
+            textcolor(BLUE);
+            printf("나 : 네! 아 먼저 자리에 앉아도 될까요 ?");
+            getchar();
+            textcolor(RED);
+            printf("소개팅녀 : 네네 편하게 앉으세요 !");
+            getchar();
+            textcolor(BLUE);
+            printf("나 : 흠... 일단 뭐 좀 시켜볼까요 ?");
+            getchar();
+            textcolor(RED);
+            printf("소개팅녀 : 네! 저는 돌체라떼요 !");
+            getchar();
+            textcolor(BLUE);
+            printf("나 : 음.. 전 녹차라떼요..! 제가 계산하고 올게요 !");
+            getchar();
+            textcolor(WHITE);
+            printf(".");
+            getchar();
+            textcolor(WHITE);
+            printf(".");
+            getchar();
+            textcolor(WHITE);
+            printf(".");
+            getchar();
+            textcolor(BLUE);
+            printf("나 : 읏차 계산하고 왔습니다 !");
+            getchar();
+            textcolor(RED);
+            printf("소개팅녀 : 오~! 수고하셨어요 !");
+            getchar();
+            textcolor(BLUE);
+            printf("나 : ㅎㅎ.....");
+            getchar();
+            textcolor(RED);
+            printf("소개팅녀 : ㅎㅎㅎ............");
+            getchar();
+            textcolor(WHITE);
+            printf("  --------------------------------------------------------------------\n");
+            printf(" | 이럴수가 만난 지 1분도 채 안돼서 어색한 정적이 찾아왔다.           |\n");
+            printf(" |                                                                    |\n");
+            printf(" | 빨리 대화 주제를 찾아야 해!                                        |\n");
+            printf("  --------------------------------------------------------------------\n");
+            getchar();
+            textcolor(RED);
+            printf("소개팅녀 : 아! 혹시 %s님의 인생에서 가장 중요한 것은 뭔가요? ", maincharacter);
+            getchar();
+            textcolor(WHITE);
+            printf("  --------------------------------------------------------------------\n");
+            printf(" | 엇 이 말 어디선가 들은 적 있는데?                                  |\n");
+            printf(" |                                                                    |\n");
+            printf(" | 일단 대답을 해보자!                                                |\n");
+            printf("  --------------------------------------------------------------------\n");
+            getchar();
+        }
+        else if (i == 4)
+        {
+            Onethings();
+            system("cls");
+        }
+
+        i++;
     }
+}
 
     return 0;
 }
