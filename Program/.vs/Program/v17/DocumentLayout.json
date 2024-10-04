@@ -63,7 +63,7 @@
               "RelativeDocumentMoniker": "..\\test2\\test.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\test2\\test.c",
               "RelativeToolTip": "..\\test2\\test.c",
-              "ViewState": "AQIAAOQAAAAAAAAAAAAAAPEAAABfAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-27T11:47:26.647Z",
               "EditorCaption": ""
@@ -76,7 +76,7 @@
               "RelativeDocumentMoniker": "..\\test\\Source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\test\\Source.c",
               "RelativeToolTip": "..\\test\\Source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-25T11:36:20.734Z",
               "EditorCaption": ""
@@ -125,9 +125,10 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAIwFMAAABVAAAA",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAFMAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-10T11:06:30.499Z"
+              "WhenOpened": "2024-09-10T11:06:30.499Z",
+              "EditorCaption": ""
             }
           ]
         }
