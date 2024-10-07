@@ -1,25 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\\uBB38\uC11C\\SBS Game Academy\\LanguageGame\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9992439E-5981-4B28-92F8-60C8ECD0FF79}|..\\test2\\test2.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\test2\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9992439E-5981-4B28-92F8-60C8ECD0FF79}|..\\test2\\test2.vcxproj|C:\\Users\\USER\\OneDrive\\\uBB38\uC11C\\SBS Game Academy\\LanguageGame\\test2\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B298C976-1E4A-4125-B26B-B7146EF324CC}|..\\test\\test.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\test\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\test2\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A822037-0C33-48AB-896F-857A0D0A9E11}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6A822037-0C33-48AB-896F-857A0D0A9E11}|Program.vcxproj|C:\\Users\\USER\\OneDrive\\\uBB38\uC11C\\SBS Game Academy\\LanguageGame\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6A822037-0C33-48AB-896F-857A0D0A9E11}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC5F7D28-6BD7-4995-A53A-55A09FDF49E7}|..\\Class2th\\Class2th.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class2th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\test\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3CBCAEC-1386-4C90-B3D4-F493AB774195}|..\\Class4th (File Input \u0026 Output)\\Class4th (File Input \u0026 Output).vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class4th (File Input \u0026 Output)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class4th (File Input \u0026 Output)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A26F7070-0353-401D-9776-9F73033DADBD}|..\\Class3th\\Class3th.vcxproj|C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class3th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class3th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class2th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,28 +32,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -59,36 +42,46 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\test2\\test.c",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\uBB38\uC11C\\SBS Game Academy\\LanguageGame\\test2\\test.c",
               "RelativeDocumentMoniker": "..\\test2\\test.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\test2\\test.c",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\uBB38\uC11C\\SBS Game Academy\\LanguageGame\\test2\\test.c",
               "RelativeToolTip": "..\\test2\\test.c",
-              "ViewState": "AQIAADIAAAAAAAAAAAAAADoAAAAVAAAA",
+              "ViewState": "AgIAAEADAAAAAAAAAAAowEYDAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-27T11:47:26.647Z",
+              "WhenOpened": "2024-10-07T13:35:43.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "test.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\test2\\test.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\C_study\\LanguageGame\\test2\\test.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\test2\\test.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\C_study\\LanguageGame\\test2\\test.c",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-27T11:47:26.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\test\\Source.c",
-              "RelativeDocumentMoniker": "..\\test\\Source.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\C_study\\LanguageGame\\test\\Source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\test\\Source.c",
-              "RelativeToolTip": "..\\test\\Source.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\C_study\\LanguageGame\\test\\Source.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-25T11:36:20.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T11:36:20.734Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class4th (File Input \u0026 Output)\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class4th (File Input \u0026 Output)\\Source.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\C_study\\LanguageGame\\Class4th (File Input \u0026 Output)\\Source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class4th (File Input \u0026 Output)\\Source.c",
-              "RelativeToolTip": "..\\Class4th (File Input \u0026 Output)\\Source.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\C_study\\LanguageGame\\Class4th (File Input \u0026 Output)\\Source.c",
               "ViewState": "AQIAAC0AAAAAAAAAAAAIwCwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-24T10:58:04.937Z"
@@ -98,21 +91,21 @@
               "DocumentIndex": 5,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class3th\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class3th\\Source.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\C_study\\LanguageGame\\Class3th\\Source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class3th\\Source.c",
-              "RelativeToolTip": "..\\Class3th\\Source.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\C_study\\LanguageGame\\Class3th\\Source.c",
               "ViewState": "AQIAAFsAAAAAAAAAAAAAAGMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-20T11:01:33.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class2th\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class2th\\Source.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\C_study\\LanguageGame\\Class2th\\Source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Class2th\\Source.c",
-              "RelativeToolTip": "..\\Class2th\\Source.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Administrator\\Desktop\\C_study\\LanguageGame\\Class2th\\Source.c",
               "ViewState": "AQIAAHIAAAAAAAAAAAAAAAgAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-13T10:55:30.888Z"
@@ -121,14 +114,13 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Program\\Source.c",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\uBB38\uC11C\\SBS Game Academy\\LanguageGame\\Program\\Source.c",
               "RelativeDocumentMoniker": "Source.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C_study\\LanguageGame\\Program\\Source.c",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\uBB38\uC11C\\SBS Game Academy\\LanguageGame\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
               "ViewState": "AQIAAFMAAAAAAAAAAAAAAFMAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-10T11:06:30.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T11:06:30.499Z"
             }
           ]
         }
