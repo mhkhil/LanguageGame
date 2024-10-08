@@ -1,16 +1,10 @@
 ﻿  test.c
-C:\Users\USER\OneDrive\문서\SBS Game Academy\LanguageGame\test2\test.c(541,16): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
-      C:\Users\USER\OneDrive\문서\SBS Game Academy\LanguageGame\test2\test.c(541,16):
-      자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
-      C:\Users\USER\OneDrive\문서\SBS Game Academy\LanguageGame\test2\test.c(541,16):
-      누락된 variadic 인수 1이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\Administrator\Desktop\C_study\LanguageGame\test2\test.c(653,13): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+  C:\Users\Administrator\Desktop\C_study\LanguageGame\test2\test.c(653,13):
+  이 인수는 버퍼 크기로 사용됩니다.
   
-C:\Users\USER\OneDrive\문서\SBS Game Academy\LanguageGame\test2\test.c(650,13): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
-      C:\Users\USER\OneDrive\문서\SBS Game Academy\LanguageGame\test2\test.c(650,13):
-      이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\Administrator\Desktop\C_study\LanguageGame\test2\test.c(661,13): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+  C:\Users\Administrator\Desktop\C_study\LanguageGame\test2\test.c(661,13):
+  이 인수는 버퍼 크기로 사용됩니다.
   
-C:\Users\USER\OneDrive\문서\SBS Game Academy\LanguageGame\test2\test.c(658,13): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
-      C:\Users\USER\OneDrive\문서\SBS Game Academy\LanguageGame\test2\test.c(658,13):
-      이 인수는 버퍼 크기로 사용됩니다.
-  
-  test2.vcxproj -> C:\Users\USER\OneDrive\문서\SBS Game Academy\LanguageGame\Program\x64\Debug\test2.exe
+  test2.vcxproj -> C:\Users\Administrator\Desktop\C_study\LanguageGame\Program\x64\Debug\test2.exe
